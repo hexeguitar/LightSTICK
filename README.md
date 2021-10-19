@@ -6,9 +6,10 @@
 - High CRI >95 dual color white leds (cold/warm).
 - Modular system with one Master module and up to 4 secondary modules.
 - Linear constant current LED drivers.
-- IR remote control (brightness, color, presets)
+- IR remote control (brightness, color, presets).
 - Optional analog control using potentiometers (not implemented yet).
-- Power saving OFF mode  
+- Power saving OFF mode.
+- Current consumption: about 300mA per module in full brightness.
   
 ## Background/design:
 Traditional and common studio lights used in photography and filming usually use a high current PWM to control the brightness. For my use in filming analog instruments and effects (often high gain ones) i really needed something quiet and as noise/EMI free as possible.  
@@ -120,7 +121,6 @@ Cheap "book lamp" rebuilt into remote controlled high CRI light for macro photog
 A ring of 5 LightSTICKs used as source of indirect light in macro photography.
 ![alt text][pic7]  
 ![alt text][pic4]  
-
 
 ----  
 Copyright 2021 by Piotr Zapart  
