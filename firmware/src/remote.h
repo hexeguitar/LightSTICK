@@ -51,7 +51,7 @@ typedef enum
     CMD_BRIGHT_DEC      = 0x09,     // key -
     CMD_BRIGHT_MAX      = 0x30,     // key PLAY
     CMD_COLOR_WARMER    = 0x06,     // key UP
-    CMD_COLOR_COLDER    = 0x0C,     // key DOWM
+    CMD_COLOR_COLDER    = 0x0C,     // key DOWN
     CMD_COLOR_WARM      = 0x33,     // key FWD
     CMD_COLOR_COLD      = 0x2D,     // key REW
     CMD_PRESET_0        = 0x27,     // key 0

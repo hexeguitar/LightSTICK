@@ -129,7 +129,7 @@ void leds_brightness_dec(void)
 }
 // ----------------------------------------------------------------------------
 /**
- * @brief Change color termperature cold--->warm
+ * @brief Change color temperature cold--->warm
  * 
  */
 void leds_colortemp_warm(void)
@@ -141,7 +141,7 @@ void leds_colortemp_warm(void)
 }
 // ----------------------------------------------------------------------------
 /**
- * @brief Change color termperature warm--->cold
+ * @brief Change color temperature warm--->cold
  * 
  */
 void leds_colortemp_cold(void)
